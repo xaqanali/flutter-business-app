@@ -1,1 +1,2 @@
-# flutter-business-app
+Flutter mobile application for business operations.
+Includes sales and inventory screens.
